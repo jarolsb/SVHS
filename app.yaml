@@ -1,5 +1,6 @@
 
 runtime: python38
+threadsafe: no
 
 
 handlers:
